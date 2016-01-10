@@ -2,11 +2,12 @@
 title: "Duke Studies by Jesse Hu, Austin Hua, Cody Li, and  Brian Lin"
 email: cl305@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
+favicon: "/img/comment.ico"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # twitter_username: 
-github_username: cl305
+# github_username: 
 
 # Build settings
 markdown: kramdown
